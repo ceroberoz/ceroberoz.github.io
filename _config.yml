@@ -15,7 +15,7 @@ pinterest_username:
 flickr_username:
 github_username:  "ceroberoz"
 feed_icon: rss
-email: "#"
+email: "perdanahadisanjaya@gmail.com"
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
