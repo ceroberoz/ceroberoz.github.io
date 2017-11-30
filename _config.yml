@@ -4,7 +4,8 @@ description: >
 copyright: Ok
 sass:
   sass_dir: assets/sass
-url: ceroberoz.github.io
+baseurl: ""
+url: "https://www.perdanahadisanjaya.cf/"
 disqus_shortname: stratajekylldemo
 facebook_username:
 twitter_username: "#"
